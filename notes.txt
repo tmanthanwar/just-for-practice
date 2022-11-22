@@ -1,0 +1,26 @@
+Git Commands
+
+1) to clone
+
+ git clone <your github url>
+
+2) to check git status
+
+ git status
+
+3) to add file
+
+ git add <filename>
+
+4) to commit
+
+ git commit -m "commit message"
+
+5) to push file
+
+ git push
+
+* If your doing it first time do git config
+
+1) git config global user.email "tmanthanwar@gmail.com"
+2) git config global user.name "Tejashree"
